@@ -1,7 +1,8 @@
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-<h1 align="center">Hi 👋, I'm Dashrath Patel</h1>
-<h3 align="center">A passionate frontend developer from Indi</h3>
-<img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="300">
+
+<h1 align="center">(Hi)👋, I'm Dashrath Patel</h1>
+<h2 align="center">A Software Developer 👨‍💻 from India</h2>
+<img align ="right" alt="coding" width="400" height="300"  src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47pbngxrpwq27c7ed7lcfgzpwv03vqszrhssw6i3ia&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultrapain&label=Profile%20views&color=0e75b6&style=flat" alt="ultrapain" /> </p>
 
@@ -17,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dashrath patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dashrath patel" height="30" width="40" /></a>
-<a href="https://kaggle.com/dashrath_patel_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dashrath_patel_08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dashrath-patel-86a44b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dashrath patel" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/dashrathpatel08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dashrath_patel_08" height="30" width="40" /></a>
 <a href="https://instagram.com/dashrath_0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dashrath_0810" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dashrathpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dashrathpatel" height="30" width="40" /></a>
 </p>
