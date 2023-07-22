@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **dashrathpatel0810@gmail.com**
 
-- ⚡ Fun fact **ERROR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
