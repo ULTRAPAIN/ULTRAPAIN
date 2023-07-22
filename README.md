@@ -1,20 +1,18 @@
 <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="300">
 
 <h1 align="center">(Hi)👋, I'm Dashrath Patel</h1>
-<h2 align="center">A Software Developer 👨‍💻 from India</h2>
+<h2 align="center">A Coding Enthusiast 👨‍💻 from India</h2>
 <img align ="right" alt="coding" width="400" height="300"  src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47pbngxrpwq27c7ed7lcfgzpwv03vqszrhssw6i3ia&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultrapain&label=Profile%20views&color=0e75b6&style=flat" alt="ultrapain" /> </p>
 
-- 🌱 I’m currently learning **web development, machine learning**
+- 🌱 I’m currently learning **web development, Data Science**
 
-- 👯 I’m looking to collaborate on **machine learning projects**
-
-- 💬 Ask me about **Python,Data Science**
+- 👯 I’m looking to collaborate on **machine learning  & Web dev Projects**
 
 - 📫 How to reach me **dashrathpatel0810@gmail.com**
 
-- ⚡ Fun fact **I Never Give Up.**
+- ⚡ Fun fact **ERROR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
