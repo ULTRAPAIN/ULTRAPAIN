@@ -46,3 +46,11 @@
 <!--   grid-snake -->
 ![ULTRAPAIN's github activity graph](https://github.com/ULTRAPAIN/ULTRAPAIN/blob/output/github-contribution-grid-snake.svg)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dashrath-patel-86a44b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dashrath patel" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/dashrathpatel08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dashrath_patel_08" height="30" width="40" /></a>
+<a href="https://instagram.com/dashrath_0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dashrath_0810" height="30" width="40" /></a>
+<a href="mailto:dashrathpatel0810@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a></p>
+
