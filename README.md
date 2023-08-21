@@ -1,9 +1,11 @@
 <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400">
 
 <h1 align="center">(Hi)👋, I'm Dashrath Patel</h1>
-<h2 align="center">A Coding Enthusiast 👨‍💻 from India</h2>
+<h3 align="center">A Coding Enthusiast 👨‍💻 from India</h3>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=35&duration=3500&pause=1500&color=FF0000&background=FEF30000&center=true&vCenter=true&width=1100&lines=Web+Developer;Problem+Solver;Data+Science+Wizard" alt="Typing SVG" /></a></h2>
 <img align ="right" alt="coding" width="400" height="300"  src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47pbngxrpwq27c7ed7lcfgzpwv03vqszrhssw6i3ia&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
 
+ ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultrapain&label=Profile%20views&color=0e75b6&style=flat" alt="ultrapain" /> </p>
 
 - 🌱 I’m currently learning **web development, Data Science**
