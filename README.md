@@ -44,7 +44,7 @@
 <!--   profile-night-rainbow -->
 ![ULTRAPAIN's githyb activity ](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--   grid-snake -->
-![ULTRAPAIN's github activity graph](https://github.com/ULTRAPAIN/ULTRAPAIN/blob/output/github-contribution-grid-snake.svg)
+![ULTRAPAIN's github activity graph](https://github.com/ULTRAPAIN/ULTRAPAIN/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <h3 align="left">Connect with me:</h3>
