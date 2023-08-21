@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="450">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400">
 
 <h1 align="center">(Hi)👋, I'm Dashrath Patel</h1>
 <h2 align="center">A Coding Enthusiast 👨‍💻 from India</h2>
