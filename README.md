@@ -35,7 +35,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/ULTRAPAIN/ULTRAPAIN/output/github-contribution-grid-snake.svg)
+![ULTRAPAIN's github activity graph](https://raw.githubusercontent.com/ULTRAPAIN/ULTRAPAIN/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 
+| ![ULTRAPAIN's github stats](https://github-readme-stats.vercel.app/api?username=ULTRAPAIN&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ULTRAPAIN&theme=radical&layout=compact) |
