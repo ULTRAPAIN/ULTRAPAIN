@@ -34,3 +34,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+
+![BEPb's github activity graph](https://raw.githubusercontent.com/ULTRAPAIN/ULTRAPAIN/output/github-contribution-grid-snake.svg)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 
