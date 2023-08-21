@@ -39,3 +39,10 @@
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![ULTRAPAIN's github stats](https://github-readme-stats.vercel.app/api?username=ULTRAPAIN&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ULTRAPAIN&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ULTRAPAIN"></img>
+<!--   profile-night-rainbow -->
+![ULTRAPAIN's githyb activity ](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--   grid-snake -->
+![ULTRAPAIN's github activity graph](https://github.com/ULTRAPAIN/ULTRAPAIN/blob/output/github-contribution-grid-snake.svg)
+
