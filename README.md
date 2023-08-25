@@ -17,7 +17,7 @@
 
 
 <!--   my-ticker -->    
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=35&duration=3500&pause=1500&color=FF0000&background=FEF30000&center=true&vCenter=true&width=1100&lines=Web+Developer;Problem+Solver;Data+Science+Wizard" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=38&duration=3500&pause=1500&color=00ff00&background=FEF30000&center=true&vCenter=true&width=1100&lines=Hey+Folks+👋+I'm+Dashrath+Patel;A+Web+Developer;A+Problem+Solver;Tech+Enthusisats" alt="Typing SVG" /></a></h2>
 
 
 <!--   my-skils -->
