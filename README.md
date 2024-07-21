@@ -1,5 +1,4 @@
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400">
-
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400"> 
 
 <!--   my-icons -->
 <p align="center">
@@ -18,6 +17,9 @@
 
 <!--   my-ticker -->    
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=38&duration=3500&pause=1500&color=00ff00&background=FEF30000&center=true&vCenter=true&width=1100&lines=Hey+Folks+👋+I'm+Dashrath+Patel;A+Web+Developer;A+Problem+Solver;Tech+Enthusisats" alt="Typing SVG" /></a></h2>
+<p align="center">
+     <a href="https://dashrath-cv.vercel.app/">Portfolio</a>
+</p>
 
 [![An image of @ultrapain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultrapain)](https://holopin.io/@ultrapain)
 
@@ -44,6 +46,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/dashrath-patel-86a44b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dashrath patel" height="30" width="40" /></a>
-<a href="https://instagram.com/dashrath_0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dashrath_0810" height="30" width="40" /></a>
 <a href="mailto:dashrathpatel0810@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a></p>
+
 
