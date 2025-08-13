@@ -1,26 +1,17 @@
 <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475d8k26e8ujfyrcyo83o0xt3vvzuvt22ikyduwoj6&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1010" height="400"> 
 
-<!--   my-icons -->
+
+
 <p align="center">
-    <a href="https://github.com/ULTRAPAIN"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/graphs/contributors"><img src="https://img.shields.io/github/contributors/ULTRAPAIN/ULTRAPAIN?color=blue"></a>
-    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/stargazers"><img src="https://img.shields.io/github/stars/ULTRAPAIN/ULTRAPAIN.svg?logo=github"></a>
-    <a href="https://github.com/ULTRAPAIN/ULTRAPAIN/forks"><img src="https://img.shields.io/github/forks/ULTRAPAIN/ULTRAPAIN.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ULTRAPAIN.ULTRAPAIN" alt="visitors"/>   
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ULTRAPAIN&theme=onedark&column=-1" />
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
-<!--   my-ticker -->    
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=38&duration=3500&pause=1500&color=00ff00&background=FEF30000&center=true&vCenter=true&width=1100&lines=Hey+Folks+👋+I'm+Dashrath+Patel;A+Web+Developer;A+Problem+Solver;Tech+Enthusisats" alt="Typing SVG" /></a></h2>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ULTRAPAIN&theme=github-dark-dimmed&custom_title=Dashrath_Patel&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--   my-ticker 
 <p align="center">
      <a href="https://dashrath-cv.vercel.app/">Portfolio</a>
 </p>
-
+-->    
 [![An image of @ultrapain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultrapain)](https://holopin.io/@ultrapain)
 
 <!--   my-skils -->
